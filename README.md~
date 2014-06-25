@@ -3,7 +3,7 @@ SimpleRPGGame
 
 A simple text based game programmed in python.   
 
-**Implemented by using design patterns including:**  
+Implemented by using design patterns including:  
 Decorator Pattern  
 Observer Pattern  
 State Pattern  
